@@ -1,5 +1,5 @@
 function happyHolidays() {
- ( happyHolidays() === "Happy holidays!")
+if ( happyHolidays() === "Happy holidays!")
   return happyHolidays
 }
 
