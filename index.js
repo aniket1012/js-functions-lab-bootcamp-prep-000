@@ -1,5 +1,5 @@
-function happyHolidays() {
-if ( happyHolidays() === ('Happy holidays!'))
+function happyHolidays(string) {
+if ( string === ('Happy holidays!'))
   return "Happy holidays!"
 }
 
