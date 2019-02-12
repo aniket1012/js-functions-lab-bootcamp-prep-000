@@ -3,6 +3,5 @@ function happyHolidays() {
 }
 
 function happyHolidaysTo(name) {
-  i
   return "Happy holidays, ${name}!"
 }
